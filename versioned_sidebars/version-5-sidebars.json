@@ -1,0 +1,309 @@
+{
+  "tutorialSidebar": [
+    {
+      "type": "category",
+      "label": "Getting Started",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-5.4/index",
+          "label": "Introduction"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/getting-started/how-to-download-install-and-activate-your-license",
+          "label": "How to download, install and activate your license"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/getting-started/system-requirements",
+          "label": "System Requirements"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/getting-started/academy",
+          "label": "Academy"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "User Interface",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-5.4/user-interface/rhino-and-rhinoartisan-interface",
+          "label": "Rhino and RhinoArtisan Interface"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/user-interface/toolbar-and-menu",
+          "label": "Toolbar and Menu"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/user-interface/ribbon",
+          "label": "Ribbon"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/user-interface/outliner",
+          "label": "Outliner"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/user-interface/commands",
+          "label": "Commands"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/user-interface/render-and-animation",
+          "label": "Render & Animation"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/user-interface/layers",
+          "label": "Layers"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/user-interface/middle-button",
+          "label": "Middle Button"
+        },
+        {
+          "type": "category",
+          "label": "Options",
+          "link": {
+            "type": "doc",
+            "id": "version-5.4/user-interface/options/index"
+          },
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-5.4/user-interface/options/theme",
+              "label": "Theme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Commands",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/file",
+          "label": "File"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/curve",
+          "label": "Curve"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/solid",
+          "label": "Solid"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/transform",
+          "label": "Transform"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/shanks",
+          "label": "Shanks"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/diamonds",
+          "label": "Diamonds"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/stone-settings",
+          "label": "Stone Settings"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/components",
+          "label": "Components"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/drafting",
+          "label": "Drafting"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/analyze",
+          "label": "Analyze"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/rendering",
+          "label": "Rendering"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/3d-printing",
+          "label": "3D Printing"
+        },
+        {
+          "type": "doc",
+          "id": "version-5.4/commands/cloud",
+          "label": "Cloud"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Frequently Asked Questions",
+      "items": [
+        {
+          "type": "category",
+          "label": "Pricing and Licensing",
+          "link": {
+            "type": "doc",
+            "id": "version-5.4/frequently-asked-questions/pricing-and-licensing/index"
+          },
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/pricing-and-licensing/how-can-i-purchase-rhinoartisan",
+              "label": "How can I purchase RhinoArtisan?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/pricing-and-licensing/does-rhinoartisan-include-rhino",
+              "label": "Does RhinoArtisan include Rhino?"
+            }
+          ]
+        },
+        {
+          "type": "category",
+          "label": "Installation and Updates",
+          "link": {
+            "type": "doc",
+            "id": "version-5.4/frequently-asked-questions/installation-and-updates/index"
+          },
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/installation-and-updates/how-can-i-update-rhino",
+              "label": "How can I update Rhino?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/installation-and-updates/how-can-i-install-rhinoartisan",
+              "label": "How can I install RhinoArtisan?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/installation-and-updates/rhino-8-doesnt-load-rhinoartisan.-what-can-i-do",
+              "label": "Rhino 8 doesn't load RhinoArtisan. What can I do?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/installation-and-updates/rhino-6-or-7-doesnt-load-rhinoartisan.-what-can-i-do",
+              "label": "Rhino 6 or 7 doesn't load RhinoArtisan. What can I do?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/installation-and-updates/how-can-i-know-which-version-of-rhino-im-using",
+              "label": "How can I know which version of Rhino I'm using?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/installation-and-updates/what-version-of-rhinoartisan-im-using",
+              "label": "What version of RhinoArtisan I'm using?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/installation-and-updates/how-can-i-update-rhinoartisan",
+              "label": "How can I update RhinoArtisan?"
+            }
+          ]
+        },
+        {
+          "type": "category",
+          "label": "Usage Questions",
+          "link": {
+            "type": "doc",
+            "id": "version-5.4/frequently-asked-questions/usage-questions/index"
+          },
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/usage-questions/how-to-restore-the-user-interface-layout",
+              "label": "How to restore the user interface layout?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/usage-questions/how-to-import-textures-on-rhinoartisan",
+              "label": "How to import textures on RhinoArtisan"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/usage-questions/how-can-i-learn-to-use-rhinoartisan",
+              "label": "How can I learn to use RhinoArtisan?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/usage-questions/how-to-disable-the-tripod",
+              "label": "How to disable the tripod?"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/usage-questions/how-to-move-my-license-to-another-computer",
+              "label": "How to move my license to another computer"
+            },
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/usage-questions/how-to-resolve-loading-issues",
+              "label": "How to Resolve Loading Issues"
+            }
+          ]
+        },
+        {
+          "type": "category",
+          "label": "3D Printing",
+          "link": {
+            "type": "doc",
+            "id": "version-5.4/frequently-asked-questions/3d-printing/index"
+          },
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-5.4/frequently-asked-questions/3d-printing/how-can-i-integrate-rhinoartisan-into-my-printers-3d-printing-software",
+              "label": "How can I integrate RhinoArtisan into my printer's 3D printing software?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Integrations",
+      "items": [
+        {
+          "type": "category",
+          "label": "Unlimited3D",
+          "link": {
+            "type": "doc",
+            "id": "version-5.4/integrations/unlimited3d/index"
+          },
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-5.4/integrations/unlimited3d/publishing-on-unlimited3d",
+              "label": "Publishing on Unlimited3D"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
