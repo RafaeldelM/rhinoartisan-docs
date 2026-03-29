@@ -8,6 +8,9 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    format: 'md', // Treat all .md files as plain Markdown, not MDX
+  },
   i18n: { defaultLocale: 'en', locales: ['en'] },
 
   presets: [
